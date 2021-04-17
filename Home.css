@@ -1,0 +1,191 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 772px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 55px auto 55px 0;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/sabrinna-ringquist-Y_bxfTa_iUA-unsplash.jpg");
+  min-height: 713px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 134px;
+  padding-right: 134px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Allura;
+  font-size: 8rem;
+  margin: 435px 31px 0 -31px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/sabrinna-ringquist-NhrcL_C0sFA-unsplash.jpg");
+  min-height: 393px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/sabrinna-ringquist-wh_rZqPiCuw-unsplash.jpg");
+  min-height: 320px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("images/sabrinna-ringquist-mjr5izNMxc8-unsplash.jpg");
+  min-height: 320px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 55px;
+    padding-right: 73px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 65px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 162px;
+    padding-right: 162px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 397px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 116px;
+    padding-right: 116px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 309px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 34px;
+    padding-right: 34px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 273px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 772px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 55px 0 55px auto;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/jasmin-egger-InCoMA7yKTU-unsplash.jpg");
+  min-height: 471px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/sabrinna-ringquist-ZoDgJpXzDB8-unsplash.jpeg");
+  min-height: 243px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: url("images/daniele-franchi-50gjPdhIKNU-unsplash.jpeg");
+  min-height: 243px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-4 {
+  background-image: url("images/sabrinna-ringquist-lbqW0O09RAM-unsplash.jpeg");
+  min-height: 714px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding-left: 17px;
+  padding-right: 17px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Allura;
+  font-size: 8rem;
+  margin: 42px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 6rem;
+    margin-top: 275px;
+    margin-bottom: 65px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 8rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 4.5rem;
+    margin-top: 289px;
+  }
+}
